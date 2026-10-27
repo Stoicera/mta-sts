@@ -1,7 +1,4 @@
 version: STSv1
-mode: testing
-mx: mx1.hostinger.com
-mx: mx2.hostinger.com
+mode: enforce
 mx: www665.your-server.de
-mx: mail.your-server.de
-max_age: 86400
+max_age: 604800
